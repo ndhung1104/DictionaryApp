@@ -1,0 +1,1 @@
+This is the repo for the Dictionary App in Intro2Java course
